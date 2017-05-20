@@ -1,0 +1,10 @@
+.boxover { 
+display: none; 
+position: absolute; 
+background-color: white; 
+border-style: solid; 
+padding: 5px; 
+border-width:thin; 
+width: 550px;
+text-align: justify; } 
+

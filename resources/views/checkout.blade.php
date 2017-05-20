@@ -146,6 +146,11 @@ form {
 
 
   <!--  -->
+<form id="bankpps" class="hidden">
+  <iframe src="{{ url('palbank') }}" style="width: 800px;height: 700px;"></iframe>
+</form>
+
+
 <form id="PayPalform" class="hidden">
   <div class="form-group">
     <div class="col-lg-12 col-xs-12">
@@ -153,7 +158,6 @@ form {
   </div>
  </div>
 </form>
-
 
 
 
